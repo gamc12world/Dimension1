@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "dimension:block/diorite_portal_ew"
+    },
+    "axis=x": {
+      "model": "dimension:block/diorite_portal_ns"
+    }
+  }
+}
